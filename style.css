@@ -357,3 +357,6 @@ padding: 10px;
 #carac{
     display: none;
 }
+button:hover{
+    cursor: pointer;
+}
